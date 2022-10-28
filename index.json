@@ -141,4 +141,15 @@
       "board": "v0.4",
       "filename": "4g93_stock.msq"
     }
+    {
+        "id": "12",
+        "displayName": "Honda B20 PNP",
+        "make": "Honda",
+        "firmware": 2022.04-dev,
+        "provider": "PnPduino",
+        "type": "Stock",
+        "board": "PnPduino Honda BD",
+        "description": "It uses custom firmware 2022.04-dev from shiznit304, using iacIATPWM with openloop idle control with IAT as additional control",
+        "filename": "Honda_B20_PNP.msq"
+    },
 ]
